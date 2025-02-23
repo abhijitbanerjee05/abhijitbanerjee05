@@ -66,7 +66,7 @@
 ---
 
 ## 📌 Featured Projects  
-🚀 **[Bank Bridge](https://github.com/abhijitbanerjee05/bank-bridge)**  
+🚀 **[Bank Bridge](https://github.com/abhijitbanerjee05/bankbridge)**  
 🔹 A **financial services app** enabling **real-time transaction monitoring** with **React, Spring Boot & MongoDB**.  
 
 🚀 **[Jira Voice Assistant](https://github.com/abhijitbanerjee05/jira-voice-assistant)**  
